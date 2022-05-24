@@ -8,6 +8,7 @@ this Github repo. Once done, at the terminal, type in:
 ```
 yarn install
 yarn add jest
+yarn add jest-environment-jsdom
 ```
 
 ## 2. Doing the questions
