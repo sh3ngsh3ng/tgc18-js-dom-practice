@@ -1,3 +1,4 @@
 module.exports =  {
-    testEnvironment:'jsdom'
+    testEnvironment:'jsdom',
+    reporters: ['default', '<rootDir>/my-custom-reporter.js']
 }
