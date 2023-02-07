@@ -7,4 +7,3 @@ examples
 *.jar
 solutions.js
 .env
-config.live.js
